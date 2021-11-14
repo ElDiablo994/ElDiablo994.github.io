@@ -612,6 +612,49 @@ button {
 }
 }
 @media (max-width: 800px) {
+.navbar{
+	display: none;
+}
+.mobile-container {
+  max-width: 480px;
+  margin: auto;
+  color: white;
+  border-radius: 10px;
+}
+
+.topnav {
+  overflow: hidden;
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color: #4F4F4F;
+  padding: 0px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+
+.topnav a.icon {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin-top: 10%;
+}
+
+.topnav a:hover {
+  color: black;
+}
+
+.active {
+  color: white;
+}
 .magcol-1, .magcol-2 {
 	padding: 0 0;
 }
