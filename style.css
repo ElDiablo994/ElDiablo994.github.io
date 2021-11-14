@@ -576,7 +576,7 @@ button {
 	padding-top: 40px;
 }
 .sem {
-    padding-bottom: 240px;
+    margin-bottom: 180px!important;
 }
 .column{
 	max-width: 50%;
