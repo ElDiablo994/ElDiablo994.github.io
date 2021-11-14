@@ -511,6 +511,10 @@ button {
 	padding-left: 10%;
 	padding-right: 10%;
 }
+.img-gradient img {
+    max-width: 100%;
+    max-height: 100%;
+}
 .col-1, .col-2 {
     flex-basis: 100%;
     min-width: 50%;
