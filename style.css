@@ -507,6 +507,9 @@ button {
 	color: #666666;
 }
 @media (min-width: 800px) and (max-width: 1280px){
+.devcol-1 img{
+	max-width: 100%;
+}
 .sem {
     padding-bottom: 80px!important;
 		 }
