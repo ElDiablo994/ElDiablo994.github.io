@@ -604,8 +604,11 @@ button {
   }
 }
 @media (min-width: 1280px){
-	  .topnav {
+	.topnav {
   	display: none;
+  }
+  .mobile-container{
+  	max-width: 800px;
   }
 }
 @media (min-width: 800px) {
