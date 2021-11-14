@@ -507,6 +507,15 @@ button {
 	color: #666666;
 }
 @media (min-width: 800px) and (max-width: 1280px){
+.row{
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.col-1, .col-2 {
+    flex-basis: 100%;
+    min-width: 50%;
+    padding: 20px 5%;
+}
 .devcol-1 img{
 	max-width: 100%;
 }
