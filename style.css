@@ -382,8 +382,11 @@ nav ul li a{
 	border-bottom: 1px dashed black;
 	margin-bottom: 60px;
 }
-.magcol-2, .magcol-2 {
+.magcol-2, .magcol-1 {
 	padding: 0 5%;
+}
+.magcol-2 p, .magcol-1 p{
+	padding-bottom: 10px;
 }
 .magazin h2 {
 	padding: 60px 0;
