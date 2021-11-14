@@ -610,9 +610,7 @@ button {
   width: 25%;
   text-align: center;
 }
-.topnav {
-	display: none;
-}}
+}
 @media (max-width: 800px) {
 .magcol-1, .magcol-2 {
 	padding: 0 0;
