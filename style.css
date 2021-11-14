@@ -508,8 +508,8 @@ button {
 }
 @media (min-width: 800px) and (max-width: 1280px){
 .row{
-	padding-left: 5%;
-	padding-right: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
 }
 .col-1, .col-2 {
     flex-basis: 100%;
