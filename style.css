@@ -253,7 +253,8 @@ nav ul li a{
 	content: url("images/wave2.png");
 	position: absolute;
 	top: 0px;
-	margin-top: -300px;
+	margin-top: -220px;
+}
 }
 .devcol-2{
 	flex-basis: 80%;
