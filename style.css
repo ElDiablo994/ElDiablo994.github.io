@@ -565,6 +565,7 @@ button {
 }
 button {
     margin-top: 10px;
+    z-index: 999;
 }
 .devcol-1{
 	text-align: center;
