@@ -602,6 +602,9 @@ button {
   .meni, .btn-upit {
   	display: none;
   }
+  .topnav {
+  	display: none;
+  }
 }
 @media (min-width: 800px) {
 
