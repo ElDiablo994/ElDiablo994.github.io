@@ -508,6 +508,9 @@ button {
 }
 /*Responzivnost*/
 @media (min-width: 800px) and (max-width: 1280px){
+.topnav a.icon {
+    margin-top: 5%;
+}
 .navbar{
 	display: none;
 }
