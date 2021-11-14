@@ -508,9 +508,6 @@ button {
 }
 /*Responzivnost*/
 @media (min-width: 800px) and (max-width: 1280px){
-.topnav a.icon {
-    margin-top: 5%;
-}
 .navbar{
 	display: none;
 }
@@ -537,14 +534,12 @@ button {
   font-size: 17px;
   display: block;
 }
-
-
 .topnav a.icon {
   display: block;
   position: absolute;
   right: 0;
   top: 0;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 
 .topnav a:hover {
