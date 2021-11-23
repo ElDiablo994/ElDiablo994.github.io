@@ -1,6 +1,6 @@
-@font-face { font-family: Now; src: url('font/now-bold.woff'); }
-@font-face { font-family: Now-thin; src: url('font/Now-Regular.otf'); }
-@font-face { font-family: Now-Black; src: url('font/Now-Black.otf'); }
+@font-face { font-family: 'Now'; src: url('font/now-bold.woff'); }
+@font-face { font-family: 'Now-thin'; src: url('font/Now-Regular.otf'); }
+@font-face { font-family: 'Now-Black'; src: url('font/Now-Black.otf'); }
 $primaryColor: #8ABF40;
 $titleColor:#111111;
 $textColor:#4F4F4F;
@@ -56,7 +56,7 @@ h1 {
     line-height: 56px;
 }
 h2 {
-    font-family: Now;
+    font-family: 'Now';
     font-style: normal;
     font-weight: bold;
     font-size: 30px;
@@ -302,7 +302,7 @@ img.procesi-img{
 // ISKUSTVA SEKCIJA
 .iskustva {
     h2{
-        font-family: Now;
+        font-family: 'Now';
         font-style: normal;
         font-weight: bold;
         font-size: 30px;
@@ -376,7 +376,7 @@ img.procesi-img{
 }
 .semi-col2{
     h3{
-        font-family: Now;
+        font-family: 'Now';
         font-style: normal;
         font-weight: bold;
         font-size: 13px;
@@ -394,7 +394,7 @@ img.procesi-img{
         color: #999999;
     }
     p{
-        font-family: Now;
+        font-family: 'Now';
         font-style: normal;
         font-weight: bold;
         font-size: 20px;
@@ -409,7 +409,7 @@ img.procesi-img{
     margin-top:40px;
     padding-bottom: 50px;
     h2{
-        font-family: Now;
+        font-family: 'Now';
         font-style: normal;
         font-weight: bold;
         font-size: 30px;
@@ -428,7 +428,7 @@ img.procesi-img{
 .magazin {
     padding-top:80px;
     h2{
-        font-family: Now;
+        font-family: 'Now';
         font-style: normal;
         font-weight: bold;
         font-size: 30px;
@@ -437,13 +437,13 @@ img.procesi-img{
         color:#111111;
     }
     h3{
-        font-family: Now-Black;
+        font-family: 'Now-Black';
         font-style: normal;
         font-weight: 900;
         font-size: 18px;
     }
     h4{
-        font-family: Now-thin;
+        font-family: 'Now-thin';
         font-style: normal;
         font-size: 18px;
     }
