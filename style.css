@@ -5,12 +5,12 @@
 
 @font-face {
   font-family: 'Now-thin';
-  src: url("font/Now-Regular.otf");
+  src: url("font/Now-Regular.woff");
 }
 
 @font-face {
   font-family: 'Now-Black';
-  src: url("font/Now-Black.otf");
+  src: url("font/Now-Black.woff");
 }
 
 * {
