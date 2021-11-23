@@ -1,16 +1,16 @@
 @font-face {
-  font-family: 'Now';
+  font-family: Now;
   src: url("font/now-bold.woff");
 }
 
 @font-face {
-  font-family: 'Now-thin';
-  src: url("font/Now-Regular.woff");
+  font-family: Now-thin;
+  src: url("font/Now-Regular.otf");
 }
 
 @font-face {
-  font-family: 'Now-Black';
-  src: url("font/Now-Black.woff");
+  font-family: Now-Black;
+  src: url("font/Now-Black.otf");
 }
 
 * {
